@@ -30,3 +30,6 @@ Designed by [ChrisChrisLoLo](https://github.com/ChrisChrisLoLo)
 ![IRON](/images/iron.jpg)
 
 ---
+## STEPS
+### Case
+I used JLCPCB's CNC service for the case. Get the files here.
