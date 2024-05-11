@@ -40,8 +40,8 @@ I used JLCPCB's CNC service for the case. Get the files [here](https://github.co
 These were my settings
 ![CASESETTINGS](/images/casesettings.png)
 ### Board, Backplate and Assemply
-Gerbers can found [here](https://github.com/Siriuslyblack/how.i.built.the.babbit36/tree/main/pcb)
-Bill of materials and placement file [here](https://github.com/Siriuslyblack/how.i.built.the.babbit36/tree/main/assembly)
+Gerbers can found [here](https://github.com/Siriuslyblack/how.i.built.the.babbit36/tree/main/pcb)\
+Bill of materials and placement file [here](https://github.com/Siriuslyblack/how.i.built.the.babbit36/tree/main/assembly)\
 Board fabrication and assembly settings
 ![BOARDSETTINGS](/images/boardsettings.png)
 Uploaded the bom.xlsx and cpl.xlsx files here
